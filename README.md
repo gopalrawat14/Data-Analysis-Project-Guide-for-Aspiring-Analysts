@@ -47,12 +47,12 @@ This is not just theory — it’s a **blueprint** you can reuse for your own pr
 ## 📂 Repository Structure  
 ```bash
 📦 data-analysis-project-guide
- ┣ 📜 Report.pdf          # Full 4–5 page report
- ┣ 📜 README.md           # You are here
- ┣ 📂 images/             # Supporting visuals & infographics
- ┗ 📂 resources/          # Extra notes / datasets (if added)
+ ┣ 📜 Report.pdf        
+ ┣ 📜 README.md           
+ ┣ 📂 images/        
+ ┗ 📂 resources/          
 
- ## 🌍 Why It’s Unique?  
+ ## Why It’s Unique?  
 
 Unlike generic notes or tutorials, this project:  
 ✨ Focuses on **thinking like a data analyst**, not just coding  
