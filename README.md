@@ -66,7 +66,7 @@ Unlike generic notes or tutorials, this project:
 
 I’d love feedback, suggestions, or collaboration ideas!  
 - 💼 [LinkedIn](https://www.linkedin.com/in/gopalrawat/)  
-- 📧 [ gopalrawwatt@gmail.com]  
+- 📧 [gopalrawwatt@gmail.com](mailto:gopalrawwatt@gmail.com)  
 - ⭐ Don’t forget to **star this repo** if it helps you!  
 
 ---
@@ -75,4 +75,4 @@ I’d love feedback, suggestions, or collaboration ideas!
 
 Becoming a Data Analyst isn’t about memorizing tools — it’s about **asking the right questions, working with data systematically, and telling a story through insights.**  
 
-This guide is your **first step into that journey**. 🚀  
+This guide is your **first step into that journey**. 🚀
