@@ -70,4 +70,3 @@ Becoming a Data Analyst isn’t about memorizing tools — it’s about **asking
 This guide is your **first step into that journey**. 🚀
 
 
-📄 [View Full PDF Report](https://github.com/gopalrawat14/Data-Analysis-Project-Guide-for-Aspiring-Analysts/blob/main/Data%20Analysis%20Project%20Guide%20for%20Aspiring%20Analysts%20.pdf?raw=true)
